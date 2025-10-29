@@ -1,9 +1,8 @@
 ## Framework Mobile
 
 > 📌 **Note:**  
-> - Repo ini sebagai catatan bersama.
-> - Tidak ada unsur menggurui.
-> - Hanya catatan sederhana. 
+> - Repo ini berisi catatan sederhana untuk membantu mengingat dan berbagi.
+> - - *Dan tak ada maksud menggurui*.
 
 ### 🗒️ Terkait yang di pelajari:  
  - flutter  
