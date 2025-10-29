@@ -5,7 +5,7 @@
 > - - *Dan tak ada maksud menggurui*.
 
 ### 🗒️ Terkait yang di pelajari:  
- - flutter  
+ - Flutter  
  - Dart
 
 ### 🎯 Tujuan utama:  
