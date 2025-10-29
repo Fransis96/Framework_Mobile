@@ -12,7 +12,7 @@
 
 <br>
 
-**[Flutter CLI](CLI.md)**    
+Lihat perintah 👉 **[Flutter CLI](CLI.md)**    
 
 ### Referensi: 
 - https://docs.flutter.dev/
