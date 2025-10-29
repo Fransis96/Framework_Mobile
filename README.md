@@ -9,7 +9,7 @@
  - Dart
 
 ### 🎯 Tujuan utama:  
-- Diskusi & Berbagi 💬 
+- `Pengingat`, Diskusi & Berbagi 💬 
 
 <br>
 
