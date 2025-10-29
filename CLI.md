@@ -2,7 +2,7 @@
 ---
 
 <Details>
-  <summary><b>🧪 Debug Mode (Default Mode)</b></summary><br>
+  <summary><b> Debug Mode (Default Mode)</b></summary><br>
   
 - Mengecek instalasi Flutter, SDK, Android Studio, device, dll:   
   ```
@@ -52,7 +52,7 @@
 </Details>
 
 <Details>
-  <summary><b>⚙️ Profile Mode</b></summary><br>
+  <summary><b> Profile Mode</b></summary><br>
   
 - Menjalankan aplikasi di mode profile:   
   ```
@@ -77,7 +77,7 @@
 </Details>   
 
 <Details>
-  <summary><b>🚀 Release Mode</b></summary><br>    
+  <summary><b> Release Mode</b></summary><br>    
 
 **`--release` artinya: “jalankan aplikasi dengan performa maksimal untuk produksi.”**
 - Menjalankan release mode di windows:   
