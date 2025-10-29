@@ -2,47 +2,83 @@
 
 #### 🧪 Debug Mode (Default Mode)   
 - Mengecek instalasi Flutter, SDK, Android Studio, device, dll:   
-```flutter doctor```   
+```
+flutter doctor
+```   
 - Membuat proyek Flutter baru:   
-```flutter create <nama_proyek>```   
+```
+flutter create <nama_proyek>
+```   
 - Menjalankan aplikasi dengan memilih perangkat:   
-```flutter run```   
+```
+flutter run
+```   
 - Menentukan perangkat target (contoh: ``flutter run -d chrome``):   
-```flutter run -d <device>```   
+```
+flutter run -d <device>
+```   
 - Membangun file .apk untuk Android:  
-```flutter build apk```   
+```
+flutter build apk
+```   
 - Membangun file ``.aab`` untuk Play Store:   
-```flutter build appbundle```   
+```
+flutter build appbundle
+```   
 - Membangun aplikasi untuk web:   
-```flutter build web```   
+```
+flutter build web
+```   
 - Mengambil semua dependency dari pubspec.yaml:   
-```flutter pub get```   
+```
+flutter pub get
+```   
 - Memperbarui dependency ke versi terbaru:   
-```flutter pub upgrade```   
+```
+flutter pub upgrade
+```   
 - Menghapus cache build dan file sementara:   
-```flutter clean```   
+```
+flutter clean
+```   
 - Menjalankan unit test di proyek:   
-```flutter test```   
+```
+flutter test
+```   
 ...
 
 #### ⚙️ Profile Mode   
 - Menjalankan aplikasi di mode profile:   
-```flutter run --profile```   
+```
+flutter run --profile
+```   
 - Menentukan perangkat target (contoh: Windows):   
-```flutter run --profile -d windows```   
+```
+flutter run --profile -d windows
+```   
 - Membangun file .apk untuk Android (profile build):   
-```flutter build apk --profile```   
+```
+flutter build apk --profile
+```   
 - Membangun aplikasi untuk web (profile build):   
-```flutter build web --profile```   
+```
+flutter build web --profile
+```   
 - Membangun aplikasi desktop untuk uji performa:   
-```flutter build windows --profile```   
+```
+flutter build windows --profile
+```   
 
 #### 🚀 Release Mode   
 **`--release` artinya: “jalankan aplikasi dengan performa maksimal untuk produksi.”**
 - Menjalankan release mode di windows:   
-```flutter run --release -d windows```    
+```
+flutter run --release -d windows
+```    
 - Membangun aplikasi untuk windows:  
-```flutter build windows --release```   
+```
+flutter build windows --release
+```   
 ...
 
 
