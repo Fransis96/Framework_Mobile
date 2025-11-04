@@ -14,6 +14,7 @@
 <br>
 
 Lihat perintah 👉 **[Flutter CLI](CLI.md)**    
+Lihat hasil praktik (app dan lainnya) 👉 **[Project](https://github.com/fransis96fm?tab=repositories)**    
 
 ### Referensi: 
 - https://docs.flutter.dev/
